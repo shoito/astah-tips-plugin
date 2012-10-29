@@ -7,7 +7,7 @@ astah community, UML, professionalの何れかにインストールして利用�
 
 インストール
 ---
-[こちらのページ](https://github.com/shoito/astah-tips-plugin/downloads)から**[tips-x.x.x.jar](https://github.com/downloads/shoito/astah-tips-plugin/tips-0.1.0.jar)**ファイルをダウンロードし、`astahのインストールフォルダ/plugins/`にコピーしてastahを再起動します。
+[こちらのページ](https://github.com/shoito/astah-tips-plugin/downloads)から **[tips-x.x.x.jar](https://github.com/downloads/shoito/astah-tips-plugin/tips-0.1.0.jar)** ファイルをダウンロードし、`astahのインストールフォルダ/plugins/`にコピーしてastahを再起動します。
 
 ### astahバージョン6.6以上のインストール
 この辺から各OS用のインストーラーをダウンロードして、実行します。
