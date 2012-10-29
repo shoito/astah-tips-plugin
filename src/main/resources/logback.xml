@@ -9,9 +9,9 @@
 
 	<appender name="FILE"
 		class="ch.qos.logback.core.rolling.RollingFileAppender">
-		<File>${user.home}/.astah/${astah.edition}/com.github.astah.tips.log</File>
+		<File>${user.home}/.astah/${astah.edition}/tips.log</File>
 		<rollingPolicy class="ch.qos.logback.core.rolling.FixedWindowRollingPolicy">
-			<FileNamePattern>${user.home}/.astah/${astah.edition}/com.github.astah.tips.%i.log.zip
+			<FileNamePattern>${user.home}/.astah/${astah.edition}/tips.%i.log.zip
 			</FileNamePattern>
 			<MinIndex>1</MinIndex>
 			<MaxIndex>3</MaxIndex>
