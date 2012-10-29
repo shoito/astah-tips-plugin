@@ -3,7 +3,7 @@ astah Tipsプラグイン
 
 [astah* Users Community Site](http://astah-users.change-vision.com/ja/)で公開されているTipsを確認できるastahプラグインです。
 
-astah community, UML, professionalの何れかにインストールして利用します。なお、プラグインはastahのバージョン6.6以上、かつ**Java7実行環境**であれば利用可能です。
+astah community, UML, professionalの何れかにインストールして利用します。なお、プラグインはastahのバージョン6.6以上、かつ **Java7実行環境** であれば利用可能です。
 
 インストール
 ---
@@ -29,8 +29,8 @@ astahを起動して、メニューから[ヘルプ] - [astah Tips]を選択し�
 
 注意
 ---
-astahのバージョン6.6は**Java6実行環境**が同梱されていますが、その環境では本プラグインは動作しません。
-その辺りはいろいろ察して、自己責任の元で**Java7実行環境**でastahが起動するように調整してください。
+astahのバージョン6.6は **Java6実行環境** が同梱されていますが、その環境では本プラグインは動作しません。
+その辺りはいろいろ察して、自己責任の元で **Java7実行環境** でastahが起動するように調整してください。
 
 フィードバック
 ---
