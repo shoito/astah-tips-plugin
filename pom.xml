@@ -14,7 +14,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.astah</groupId>
 	<artifactId>tips</artifactId>
-	<version>0.1.0</version>
+	<version>0.1.1</version>
 	<packaging>jar</packaging>
 	<name>astah Tipsプラグイン</name>
 	<description>astahコミュニティサイトで公開されているTipsを確認できるプラグインです</description>
