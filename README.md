@@ -1,6 +1,8 @@
 astah Tipsプラグイン
 =================
 
+**※ astah バージョン6.8のリリースにより「スタートアップ画面」が追加され、本プラグインが提供していた役割は標準で提供されるようになりました。**
+
 [astah* Users Community Site](http://astah-users.change-vision.com/ja/)で公開されているTipsを確認できるastahプラグインです。
 
 astah community, UML, professionalの何れかにインストールして利用します。なお、プラグインはastahのバージョン6.6以上、かつ **Java7実行環境** であれば利用可能です。
